@@ -12,11 +12,14 @@ __pycache__/
 *.py[cod]
 
 # Archivos de datos y credenciales
-*.json
-*.pkl
 .env
 .env.local
 
 # Logs y resultados
 logs/
 *.log
+
+main.py
+
+.gitignore
+
