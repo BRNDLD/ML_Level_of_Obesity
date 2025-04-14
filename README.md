@@ -27,5 +27,4 @@ This project trains a multiclass classification model to predict obesity levels 
    ```bash
    git clone https://github.com/BRNDLD/ML_Level_of_Obesity.git
 
-   👍
-   
+👍
