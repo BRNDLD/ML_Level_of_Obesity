@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archivos de datos y credenciales
+*.json
+*.pkl
+.env
+.env.local
+
+# Logs y resultados
+logs/
+*.log
