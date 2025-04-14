@@ -20,5 +20,5 @@ logs/
 *.log
 
 main.py
-
+obesity_model.pkl
 
